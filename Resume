@@ -2,7 +2,7 @@
 <div class="left"></div>
 <div class="stuff">
   <br><br>
-  <h1>Cloud Resume</h1>
+  <h1>My Cloud Resume</h1>
   <h2>Casey F. Bond</h2>
   <h3>Jacksonville, FL</h3>
   <h4>www.linkedin.com/in/casey-bond</h4>
@@ -16,33 +16,56 @@
     <li>Basic Routing and Switching</li>
     <li>Linux Adminination</li>
   </ul>
-  <p class="head">Skills</p>
+  <p class="head">Soft Skills</p>
   <ul>
-    <li>Web Design with HTML & CSS</li>
+    <li>Organizational Management
+      Information Technology
+      Cloud Networking Concepts
+      Critial Thinking
+      Teamwork/Teambuilding
+    </li>
   </ul>
   <p class="head">Education</p>
   <ul> 
       <li>Masters of Science in Cyber Operations, Unviersity of Maryland Gloabl Campus (22/32 credits completed)</li>
     </a>
       <li>Bachelors of Science in Networking and Cyber Security, University of Maryland Global Campus</li>
-    </a>
-    <li>Codeacademy</li>
   </ul>
+</ul>
+<p class="head">Certifications</p>
+<ul>
+  <li>CompTIA Security +</li>
+  <li>AZ900 (Microsoft Azure Fundamentals)</li>
+  <li>SC900 (Microsoft Security, Compliance, and Identity Fundamentals)</li>
+  <li>Oracle Cloud Infrastructure Foundations Associates</li>
+</ul>
   <p class="head">Professional Experience</p>
   <ul>
     <li>Southeast Regional Maintenance Center - Network Infrastructure Team - Systems Administrator</li>
-    <li>•	Lead troubleshooting efforts on all network-related appliances, including firewalls, Cisco switches/routers, active directory, authentication methods, and end-user hardware. 
-        •	Conduct installations of Virtualized environments utilizing VMware 6.5, 6.7, and 7.0. 
-        •	Manage and assist rebuilding of ACAS server and ensure scans a properly ran on all required systems. 
-        •	Manage the implementation and control of all Windows-based servers, including active directory and group policy configurations, Linux-based servers, and all other virtual servers utilized onboard US naval ships. 
-        •	Develop operating instructions, maintenance procedures, and criteria to evaluate the proper operation of Navy Shipboard network systems.
-        •	Coordination of immediate technical assistance on urgent mission degrading CASREPSs or similar problems affecting Navy shipboard classified/unclassified wide area and tactical computer networks.
-        •	Provide technical guidance, training, and coordination of organized teams of civilians, military personnel, and ship force personnel to increase their proficiency.
-        •	I use expert knowledge and experience to identify the root cause of Navy shipboard classified/ unclassified wide area and tactical computer network and equipment problems.
-        •	Conducted the review of engineering design change proposals that provide/documents technical and engineering guidance related to Navy shipboard classified/ unclassified wide-area computer network systems consistent with NAVSEA technical authority policy.
-        •	Managed Navy shipboard classified/unclassified wide area and tactical computer network system and equipment assessments to identify repair requirements.
-        •	Used expert knowledge to accomplish System Administration on Navy shipboard classified and unclassified wide area and tactical computer networks.
+
+    <li>Lead troubleshooting efforts on all network-related appliances, including firewalls, Cisco switches/routers, active directory, authentication methods, and end-user hardware. 
+      
+        Conduct installations of Virtualized environments utilizing VMware 6.5, 6.7, and 7.0. 
+        	
+        Manage and assist rebuilding of ACAS server and ensure scans a properly ran on all required systems. 
+        
+        Manage the implementation and control of all Windows-based servers, including active directory and group policy configurations, Linux-based servers, and all other virtual servers utilized onboard US naval ships. 
+        
+        Develop operating instructions, maintenance procedures, and criteria to evaluate the proper operation of Navy Shipboard network systems.
+        
+        Coordination of immediate technical assistance on urgent mission degrading CASREPSs or similar problems affecting Navy shipboard classified/unclassified wide area and tactical computer networks.
+        
+        Provide technical guidance, training, and coordination of organized teams of civilians, military personnel, and ship force personnel to increase their proficiency.
+       
+        I use expert knowledge and experience to identify the root cause of Navy shipboard classified/ unclassified wide area and tactical computer network and equipment problems.
+       
+        Conducted the review of engineering design change proposals that provide/documents technical and engineering guidance related to Navy shipboard classified/ unclassified wide-area computer network systems consistent with NAVSEA technical authority policy.
+      
+        Managed Navy shipboard classified/unclassified wide area and tactical computer network system and equipment assessments to identify repair requirements.
+     
+        Used expert knowledge to accomplish System Administration on Navy shipboard classified and unclassified wide area and tactical computer networks.
         </li>
+
     <li>FIS Global - Senior Product Support Representative - Global One Scurities Lending</li>
     <li>•	Provides in-depth product support to FIS clients by resolving incoming inquiries and responding to customer product inquiries via telephone or written internet-based email or chat sessions.  
         •	Documents customer information and recurring technical issues to support product quality programs and development.  
@@ -50,14 +73,7 @@
         •	Resolves client concerns raised during installation, operation, maintenance, product application, or compatibility.  
         •	Interpersonal skills, technical product knowledge, and expertise are critical to responding to daily Client-centric activities.    
         </li>
-  </ul>
-  <p class="head">Extracurriculars</p>
-  <ul>
-    <li>Recycling Club</li>
-    <li>Gardening Club</li>
-    <li>Book Club</li>
-  </ul>
 </div>
 <div class="right"></div>
 <div id="footer">
-  <h2 id="name">Emily</h2></div>
+  <h2 id="name">casey-bond</h2></div>
